@@ -1,0 +1,26 @@
+{
+    "animation_name": "simple_square_move",
+    "target_shape": "square",
+    "duration_seconds": 1.0,
+
+    "key_frames": [
+        {
+            "time": 0.0,
+            "pos_x": 100.0,
+            "pos_y": 100.0,
+            "size": 50.0,
+            "color_r": 255,
+            "color_g": 255,
+            "color_b": 255
+        },
+        {
+            "time": 1.0,
+            "pos_x": 500.0,
+            "pos_y": 400.0,
+            "size": 100.0,
+            "color_r": 255,
+            "color_g": 0,
+            "color_b": 0
+        }
+    ]
+}
