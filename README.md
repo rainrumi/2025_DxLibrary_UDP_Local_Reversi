@@ -1,0 +1,2 @@
+# 2026_DxLibrary_UDP_Local_Reversi
+UDP通信を利用したDxライブラリ製のオセロゲーム
